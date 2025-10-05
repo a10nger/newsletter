@@ -1,0 +1,15 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "main": "worker.js",
+  "scripts": {
+    "login": "node login.js",
+    "start": "node worker.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "dayjs": "^1.11.18",
+    "p-timeout": "^7.0.0",
+    "telegram": "^2.26.22"
+  }
+}
