@@ -12,7 +12,7 @@ Automatic messaging in Telegram
 - config.json
 - contacts.json
 
-#### Join in to the accounts.json
+#### Add to accounts.json
 
 ```
 [
@@ -31,7 +31,7 @@ Automatic messaging in Telegram
 ]
 ```
 
-#### Join in to the config.json
+#### Add to config.json
 
 ```
 {
@@ -46,7 +46,7 @@ Automatic messaging in Telegram
 }
 ```
 
-#### Join in to the config.json
+#### Add to config.json
 
 ```
 [
