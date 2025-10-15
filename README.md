@@ -46,7 +46,7 @@ Automatic messaging in Telegram
 }
 ```
 
-#### Join in to the config.json
+#### Join in to the contacts.json
 
 ```
 [
